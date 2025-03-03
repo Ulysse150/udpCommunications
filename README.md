@@ -6,7 +6,7 @@
 
 Vladimir HERRERA-NATIVI  
 Raphael LEONARDI  
-[Baptiste PRAS]("https://github.com/baptistepras")
+[Baptiste PRAS](https://github.com/baptistepras)
 
 # How to use it ?
 
