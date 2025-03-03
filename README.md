@@ -4,9 +4,9 @@
 
 # Members who contributed to this project
 
-Vladimir HERRERA-NATIVI
-Raphael LEONARDI
-Baptiste PRAS
+Vladimir HERRERA-NATIVI  
+Raphael LEONARDI  
+[Baptiste PRAS]("https://github.com/baptistepras")
 
 # How to use it ?
 
